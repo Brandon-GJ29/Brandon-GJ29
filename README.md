@@ -8,9 +8,7 @@
 </h3>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Engineering%20student%20%7C%20Video%20Editor;Aspiring%20entrepreneur%20%7C%20Fitness%20enthusiast;Exploring%20finance%20%7C%20Always%20learning;Let%27s%20build%20something%20great%20together!&center=true&width=440&height=45&color=FFFFFF&background=00000000">
-  </a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=bebas&size=24&pause=1000&color=F7F7F7&center=true&vCenter=true&multiline=true&width=435&lines=Let's+develop+a+code+together" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
