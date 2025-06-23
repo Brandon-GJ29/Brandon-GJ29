@@ -23,7 +23,7 @@
 - 🌱 **Currently learning:** React, Node.js, Python for data science, finance applications.
 - 💬 **Ask me about:** Video editing, web development, productivity tools.
 - ⚡ **Fun fact:** The gym and coding fuel my day 💪💻.
-- 📫 **Reach me at:** brandon.garay@example.com
+- 📫 **Reach me at:** brandon.gj29@gmail.com
 
 ---
 
@@ -32,6 +32,7 @@
 #### 🔧 Languages
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -40,12 +41,12 @@
 
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white)
-![Sass](https://img.shields.io/badge/Sass-%23CC6699.svg?style=for-the-badge&logo=sass&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 #### 🔧 Tools
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VSCode-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Adobe Premiere](https://img.shields.io/badge/Premiere%20Pro-%23004C97.svg?style=for-the-badge&logo=adobe-premiere-pro&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/Photoshop-%23031F4F.svg?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
