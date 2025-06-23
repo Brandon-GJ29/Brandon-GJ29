@@ -53,23 +53,11 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=brandon-garay&show_icons=true&theme=algolia&bg_color=1e2b3c&border_color=B2E0FF&icon_color=95ccff&border_radius=15&count_private=true&include_all_commits=true" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=brandon-garay&theme=dracula&background=1E2B3C&border=B2E0FF&ring=95CCFF&fire=95CCFF&currStreakNum=95CCFF&sideNums=95CCFF&currStreakLabel=95CCFF&sideLabels=95CCFF&dates=FFFFFF" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=brandon-garay&layout=compact&theme=radical" />
-</div>
-
----
 
 ## 🔗 Connect with me
 
 <div align="center">
-  <a href="mailto:brandon.garay@example.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/brandon-garay/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://instagram.com/brandon.fit.edit"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="https://twitter.com/brandon_garay"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="mailto:brandon.gj29@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/brandon-gj/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.instagram.com/gj_brandon/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </div>
